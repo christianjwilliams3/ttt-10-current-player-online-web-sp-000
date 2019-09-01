@@ -13,3 +13,6 @@ def current_player(board)
   if turns % 2 == 00
     return "X"
   else
+    return "O"
+  end
+end
